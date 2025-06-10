@@ -1,3 +1,71 @@
 {
-  "slogan": "..."
+  "pages": {
+    "index": {
+      "title": "The Company | Otantik Lezzetlerde Mükemmellik",
+      "description": "The Company'ye hoş geldiniz; burada gelenek kaliteyle buluşuyor. Sofralarınız için özenle hazırlanmış otantik ve doğal ürünlerin geniş yelpazesini keşfedin.",
+      "keywords": "the company, doğal gıdalar, otantik ürünler, kaliteli içerikler, zanaatkâr gıdalar, geleneksel tatlar"
+    },
+    "products": {
+      "title": "Seçkilerimizi Keşfedin | The Company Ürünleri",
+      "description": "Her biri kendine özgü karakteri ve lezzetiyle seçilmiş yüksek kaliteli gıdalar ve özel ürünler kataloğumuzu inceleyin.",
+      "keywords": "premium gıdalar, ürün kataloğu, zanaatkâr seçkiler, geleneksel gıdalar, gurme ürünler, özel ürünler"
+    },
+    "about-us": {
+      "title": "Hakkımızda | The Company Değerleri",
+      "description": "The Company’nin yolculuğunu, felsefesini ve güvenilir kalite ile üstün hizmet sunma kararlılığını keşfedin.",
+      "keywords": "firma hikayesi, marka değerleri, misyonumuz, güvenilir hizmet, gıda mükemmelliği, miras"
+    },
+    "personal-data-protection": {
+      "title": "Kişisel Veri Koruma | The Company Gizlilik Detayları",
+      "description": "Gizliliğiniz bizim için önemlidir. The Company'nin kişisel bilgilerinizi yasal standartlara uygun olarak nasıl işlediğini ve koruduğunu inceleyin.",
+      "keywords": "veri koruma, gizlilik politikası, kişisel bilgi güvenliği, uyumluluk, müşteri gizliliği"
+    },
+    "sales-agreement": {
+      "title": "Uzaktan Satış Sözleşmesi | The Company Yasal Şartlar",
+      "description": "The Company’nin uzaktan satış sözleşmesini okuyarak alışveriş sürecinizdeki haklarınız ve sorumluluklarımız hakkında net bilgi edinin.",
+      "keywords": "satış sözleşmesi, tüketici hakları, yasal şartlar, alışveriş koşulları, müşteri sözleşmesi"
+    },
+    "privacy-policy": {
+      "title": "Gizlilik Politikası | The Company Yasal Bilgiler",
+      "description": "The Company web sitesini ziyaret ettiğinizde veya hizmetlerimizle etkileşime geçtiğinizde verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu öğrenin.",
+      "keywords": "gizlilik politikası, veri kullanımı, bilgi güvenliği, kullanıcı gizliliği, web sitesi gizliliği"
+    },
+    "contact": {
+      "title": "Bize Ulaşın | The Company İletişim",
+      "description": "Sorularınız, geri bildirimleriniz veya destek talepleriniz için The Company ile iletişime geçin. Ekibimiz size yardımcı olmaktan memnuniyet duyar.",
+      "keywords": "iletişim, müşteri hizmetleri, destek, iletişim kanalları, geri bildirim, talep"
+    },
+    "site-map": {
+      "title": "Site Haritası | The Company Navigasyon Rehberi",
+      "description": "The Company web sitesinde tüm ana bölümlere kolayca erişmek için kapsamlı site haritamızı kullanın.",
+      "keywords": "site haritası, web sitesi navigasyonu, rehber, sayfa endeksi, yapı"
+    },
+    "404": {
+      "title": "404 - Sayfa Bulunamadı | The Company",
+      "description": "Üzgünüz, aradığınız sayfa bulunamadı. Lütfen site navigasyonumuzu kullanın veya ana sayfaya dönün.",
+      "keywords": "sayfa bulunamadı, hata, 404"
+    }
+  },
+  "mainNav": [
+    { "label": "Ana Sayfa", "href": "/" },
+    { "label": "Ürünler", "href": "/products.html" },
+    { "label": "Hakkımızda", "href": "/about.html" },
+    { "label": "İletişim", "href": "/contact.html" }
+  ],
+  "footerLinks": [
+    { "label": "Uzaktan Satış Sözleşmesi", "href": "/sales-agreement.html" },
+    { "label": "KVKK Aydınlatma Metni", "href": "/personal-data-protection.html" },
+    { "label": "Gizlilik Politikası", "href": "/privacy-policy.html" },
+    { "label": "Site Haritası", "href": "/site-map.html" }
+  ],
+  "currency": "₺",
+  "basketInstruction": "Ürünlerinizi sepete ekledikten sonra, 'Siparişini WhatsApp'tan Gönder' butonuna tıklayarak sipariş ve kargo bilgilerinizi bize hızlıca iletebilir, alışverişinizi kolayca tamamlayabilirsiniz.",
+  "headerSloganLine1": "Anadolu'nun geleneksel tatlarını",
+  "headerSloganLine2": "modern dokunuşlarla sofralarınıza getiriyoruz.",
+  "footerSloganLine1": "Erzincan topraklarının bereketini",
+  "footerSloganLine2": "çağdaş mutfak anlayışıyla yaşatıyoruz.",
+  "headerSloganBtnText": "Ürünleri İncele",
+  "headerSloganBtnLink": "/products.html",
+  "footerSloganBtnText": "Lezzetimizin Hikayesi",
+  "footerSloganBtnLink": "/about.html"
 }
