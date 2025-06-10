@@ -1,0 +1,16 @@
+{
+  "name": "The Company",
+  "legalName": "The Company LLC",
+  "slogan": "Güvenebileceğiniz Kalite, Hak Ettiğiniz Servis.",
+  "address": [
+    "456 Prairie Lane",
+    "Cheyenne, WY 82001",
+    "United States"
+  ],
+  "email": "info@company.com",
+  "phone": "+1 234 567 89 00",
+  "instagram": "https://www.instagram.com/company",
+  "facebook": "#",
+  "youtube": "#",
+  "linkedin": "#"  
+}
