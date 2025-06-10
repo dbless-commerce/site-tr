@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "p001",
+      "name": "Örnek Peynir 500g",
+      "url": "ornek-peynir-500g",
+      "price": 100,
+      "shortDesc": "Klasik yarı sert peynir, pratik 500g paketiyle günlük kullanım ve tarifler için mükemmel.",
+      "metaDesc": "Özenle üretilen Örnek Peynir, kremamsı dokusu ve dengeli aromasıyla her sofraya uyumlu, çok yönlü bir lezzet sunar.",
+      "keywords": "peynir, süt ürünleri, yarı sert peynir, 500g peynir, geleneksel peynir, organik peynir, doğal fermantasyon, zanaatkâr peynir, sağlıklı atıştırmalık, probiyotik peynir",
+      "longDesc": [
+        "Örnek Peynir, yerel çiftliklerden temin edilen taze sütten üretilir ve her lokmada kalite ve tazelik hissi verir.",
+        "Aylar süren olgunlaşma süreciyle kendine has zengin bir aromaya ve hafif ekşi bir bitişe kavuşur.",
+        "Kremamsı dokusu ve hafif acılığı ile unutulmaz bir tat deneyimi sunar.",
+        "Sütteki mevsimsel değişimler her partide hafif farklılıklar yaratır ve ürünü zanaatkâr kılar.",
+        "Yöre halkı tarafından sevilir ve dünya genelinde gurme şeflerin ilgisini giderek daha fazla çekmektedir.",
+        "Protein, kalsiyum ve sağlıklı yağlar açısından zengin olup hem lezzetli hem de besleyicidir.",
+        "Oda sıcaklığında, taze ekmek, meyve veya bal ile birlikte tüketilmesi önerilir.",
+        "Olgunlaşma sürecinde gelişen doğal fermantasyon, sindirimi destekleyen probiyotik mikroflora oluşturur.",
+        "500g'lık paket, kahvaltı ve özel tarifler için idealdir."
+      ]
+    },
+    {
+      "id": "p002",
+      "name": "Klasik Bal 250g",
+      "url": "klasik-bal-250g",
+      "price": 80,
+      "shortDesc": "250g cam kavanozda saf, altın rengi bal. En sevdiğiniz yiyecek ve içecekler için doğal bir tatlandırıcı.",
+      "metaDesc": "Yabani çiçeklerden elde edilen Klasik Balımız, bütün doğal özelliklerini koruyarak tatlı ve floral bir aroma sunar.",
+      "keywords": "bal, doğal tatlandırıcı, saf bal, 250g bal, çiçek balı, organik bal, ham bal, zanaatkâr bal, sağlıklı tatlandırıcı, antioksidan bal",
+      "longDesc": [
+        "Klasik Bal, arıların farklı yabani çiçeklerden topladığı nektardan üretilir ve bu sayede karmaşık, çok katmanlı bir lezzet kazanır.",
+        "Filtrelenmemiş ve pastörize edilmemiştir, bu sayede doğal enzim ve besinler korunur.",
+        "Pürüzsüz, akışkan kıvamı ve floral notaları ile her yaştan insanın favorisi olur.",
+        "Her hasat, sezonun eşsiz bitki örtüsünü yansıtır ve her kavanoza özgün bir karakter kazandırır.",
+        "Geleneksel beslenmede temel bir ürün olup, sağlık bilinci yüksek tüketiciler arasında da giderek popülerleşmektedir.",
+        "Doğal antioksidanlar, vitaminler ve mineraller açısından zengin olup, sağlıklı bir beslenmeye katkı sağlar.",
+        "Kahvaltıda sürülebilir, çayda veya yoğurt ve tatlıların üzerinde kullanılabilir.",
+        "Ham bal, prebiyotik özellikleri sayesinde sindirim sağlığını destekler.",
+        "250g cam kavanoz, günlük kullanım ve hediye için idealdir."
+      ]
+    }
+  ]
+}
