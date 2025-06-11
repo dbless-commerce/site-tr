@@ -6,31 +6,37 @@
       "keywords": "the company, doğal gıdalar, otantik ürünler, kaliteli içerikler, zanaatkâr gıdalar, geleneksel tatlar"
     },
     "products": {
+      "url": "urunlerimiz",
       "title": "Seçkilerimizi Keşfedin | The Company Ürünleri",
       "description": "Her biri kendine özgü karakteri ve lezzetiyle seçilmiş yüksek kaliteli gıdalar ve özel ürünler kataloğumuzu inceleyin.",
       "keywords": "premium gıdalar, ürün kataloğu, zanaatkâr seçkiler, geleneksel gıdalar, gurme ürünler, özel ürünler"
     },
     "about-us": {
+      "url": "hakkimizda",
       "title": "Hakkımızda | The Company Değerleri",
       "description": "The Company’nin yolculuğunu, felsefesini ve güvenilir kalite ile üstün hizmet sunma kararlılığını keşfedin.",
       "keywords": "firma hikayesi, marka değerleri, misyonumuz, güvenilir hizmet, gıda mükemmelliği, miras"
     },
     "personal-data-protection": {
-      "title": "Kişisel Veri Koruma | The Company Gizlilik Detayları",
+      "url": "kvkk",
+      "title": "Kişisel Verilerinizin Korunması | The Company Gizlilik Detayları",
       "description": "Gizliliğiniz bizim için önemlidir. The Company'nin kişisel bilgilerinizi yasal standartlara uygun olarak nasıl işlediğini ve koruduğunu inceleyin.",
       "keywords": "veri koruma, gizlilik politikası, kişisel bilgi güvenliği, uyumluluk, müşteri gizliliği"
     },
     "sales-agreement": {
+      "url": "satis-sozlesmesi",
       "title": "Uzaktan Satış Sözleşmesi | The Company Yasal Şartlar",
       "description": "The Company’nin uzaktan satış sözleşmesini okuyarak alışveriş sürecinizdeki haklarınız ve sorumluluklarımız hakkında net bilgi edinin.",
       "keywords": "satış sözleşmesi, tüketici hakları, yasal şartlar, alışveriş koşulları, müşteri sözleşmesi"
     },
     "privacy-policy": {
+      "url": "gizlilik-politikasi",
       "title": "Gizlilik Politikası | The Company Yasal Bilgiler",
       "description": "The Company web sitesini ziyaret ettiğinizde veya hizmetlerimizle etkileşime geçtiğinizde verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu öğrenin.",
       "keywords": "gizlilik politikası, veri kullanımı, bilgi güvenliği, kullanıcı gizliliği, web sitesi gizliliği"
     },
     "contact": {
+      "url": "iletisim",
       "title": "Bize Ulaşın | The Company İletişim",
       "description": "Sorularınız, geri bildirimleriniz veya destek talepleriniz için The Company ile iletişime geçin. Ekibimiz size yardımcı olmaktan memnuniyet duyar.",
       "keywords": "iletişim, müşteri hizmetleri, destek, iletişim kanalları, geri bildirim, talep"
@@ -48,14 +54,14 @@
   },
   "mainNav": [
     { "label": "Ana Sayfa", "href": "/" },
-    { "label": "Ürünler", "href": "/products.html" },
-    { "label": "Hakkımızda", "href": "/about.html" },
-    { "label": "İletişim", "href": "/contact.html" }
+    { "label": "Ürünler", "href": "/urunlerimiz.html" },
+    { "label": "Hakkımızda", "href": "/hakkimizda.html" },
+    { "label": "İletişim", "href": "/iletisim.html" }
   ],
   "footerLinks": [
-    { "label": "Uzaktan Satış Sözleşmesi", "href": "/sales-agreement.html" },
-    { "label": "KVKK Aydınlatma Metni", "href": "/personal-data-protection.html" },
-    { "label": "Gizlilik Politikası", "href": "/privacy-policy.html" },
+    { "label": "Uzaktan Satış Sözleşmesi", "href": "/satis-sozlesmesi.html" },
+    { "label": "KVKK Aydınlatma Metni", "href": "/kvkk.html" },
+    { "label": "Gizlilik Politikası", "href": "/gizlilik-politikasi.html" },
     { "label": "Site Haritası", "href": "/site-map.html" }
   ],
   "currency": "₺",
@@ -65,7 +71,7 @@
   "footerSloganLine1": "Erzincan topraklarının bereketini",
   "footerSloganLine2": "çağdaş mutfak anlayışıyla yaşatıyoruz.",
   "headerSloganBtnText": "Ürünleri İncele",
-  "headerSloganBtnLink": "/products.html",
+  "headerSloganBtnLink": "/urunlerimiz.html",
   "footerSloganBtnText": "Lezzetimizin Hikayesi",
-  "footerSloganBtnLink": "/about.html"
+  "footerSloganBtnLink": "/hakkimizda.html"
 }
