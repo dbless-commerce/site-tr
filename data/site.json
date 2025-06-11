@@ -17,34 +17,38 @@
       "description": "The Company’nin yolculuğunu, felsefesini ve güvenilir kalite ile üstün hizmet sunma kararlılığını keşfedin.",
       "keywords": "firma hikayesi, marka değerleri, misyonumuz, güvenilir hizmet, gıda mükemmelliği, miras"
     },
-    "personal-data-protection": {
-      "url": "kvkk",
-      "title": "Kişisel Verilerinizin Korunması | The Company Gizlilik Detayları",
-      "description": "Gizliliğiniz bizim için önemlidir. The Company'nin kişisel bilgilerinizi yasal standartlara uygun olarak nasıl işlediğini ve koruduğunu inceleyin.",
-      "keywords": "veri koruma, gizlilik politikası, kişisel bilgi güvenliği, uyumluluk, müşteri gizliliği"
-    },
-    "sales-agreement": {
-      "url": "satis-sozlesmesi",
-      "title": "Uzaktan Satış Sözleşmesi | The Company Yasal Şartlar",
-      "description": "The Company’nin uzaktan satış sözleşmesini okuyarak alışveriş sürecinizdeki haklarınız ve sorumluluklarımız hakkında net bilgi edinin.",
-      "keywords": "satış sözleşmesi, tüketici hakları, yasal şartlar, alışveriş koşulları, müşteri sözleşmesi"
-    },
-    "privacy-policy": {
-      "url": "gizlilik-politikasi",
-      "title": "Gizlilik Politikası | The Company Yasal Bilgiler",
-      "description": "The Company web sitesini ziyaret ettiğinizde veya hizmetlerimizle etkileşime geçtiğinizde verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu öğrenin.",
-      "keywords": "gizlilik politikası, veri kullanımı, bilgi güvenliği, kullanıcı gizliliği, web sitesi gizliliği"
-    },
     "contact": {
       "url": "iletisim",
       "title": "Bize Ulaşın | The Company İletişim",
       "description": "Sorularınız, geri bildirimleriniz veya destek talepleriniz için The Company ile iletişime geçin. Ekibimiz size yardımcı olmaktan memnuniyet duyar.",
       "keywords": "iletişim, müşteri hizmetleri, destek, iletişim kanalları, geri bildirim, talep"
     },
+    "personal-data-protection": {
+      "url": "kvkk",
+      "title": "Kişisel Verilerinizin Korunması Bilgilendirme Metni",
+      "description": "Gizliliğiniz bizim için önemlidir. The Company'nin kişisel bilgilerinizi yasal standartlara uygun olarak nasıl işlediğini ve koruduğunu inceleyin.",
+      "keywords": "veri koruma, gizlilik politikası, kişisel bilgi güvenliği, uyumluluk, müşteri gizliliği",
+      "showOnFooter": true
+    },
+    "sales-agreement": {
+      "url": "satis-sozlesmesi",
+      "title": "Uzaktan Satış Sözleşmesi",
+      "description": "The Company’nin uzaktan satış sözleşmesini okuyarak alışveriş sürecinizdeki haklarınız ve sorumluluklarımız hakkında net bilgi edinin.",
+      "keywords": "satış sözleşmesi, tüketici hakları, yasal şartlar, alışveriş koşulları, müşteri sözleşmesi",
+      "showOnFooter": true
+    },
+    "privacy-policy": {
+      "url": "gizlilik-politikasi",
+      "title": "Gizlilik Politikası",
+      "description": "The Company web sitesini ziyaret ettiğinizde veya hizmetlerimizle etkileşime geçtiğinizde verilerinizi nasıl topladığımızı, kullandığımızı ve koruduğumuzu öğrenin.",
+      "keywords": "gizlilik politikası, veri kullanımı, bilgi güvenliği, kullanıcı gizliliği, web sitesi gizliliği",
+      "showOnFooter": true
+    },
     "site-map": {
-      "title": "Site Haritası | The Company Navigasyon Rehberi",
+      "title": "Site Haritası",
       "description": "The Company web sitesinde tüm ana bölümlere kolayca erişmek için kapsamlı site haritamızı kullanın.",
-      "keywords": "site haritası, web sitesi navigasyonu, rehber, sayfa endeksi, yapı"
+      "keywords": "site haritası, web sitesi navigasyonu, rehber, sayfa endeksi, yapı",
+      "showOnFooter": true
     },
     "404": {
       "title": "404 - Sayfa Bulunamadı | The Company",
@@ -53,16 +57,40 @@
     }
   },
   "mainNav": [
-    { "label": "Ana Sayfa", "href": "/" },
-    { "label": "Ürünler", "href": "/urunlerimiz.html" },
-    { "label": "Hakkımızda", "href": "/hakkimizda.html" },
-    { "label": "İletişim", "href": "/iletisim.html" }
+    {
+      "label": "Ana Sayfa",
+      "href": "/"
+    },
+    {
+      "label": "Ürünler",
+      "href": "/urunlerimiz.html"
+    },
+    {
+      "label": "Hakkımızda",
+      "href": "/hakkimizda.html"
+    },
+    {
+      "label": "İletişim",
+      "href": "/iletisim.html"
+    }
   ],
   "footerLinks": [
-    { "label": "Uzaktan Satış Sözleşmesi", "href": "/satis-sozlesmesi.html" },
-    { "label": "KVKK Aydınlatma Metni", "href": "/kvkk.html" },
-    { "label": "Gizlilik Politikası", "href": "/gizlilik-politikasi.html" },
-    { "label": "Site Haritası", "href": "/site-map.html" }
+    {
+      "label": "Uzaktan Satış Sözleşmesi",
+      "href": "/satis-sozlesmesi.html"
+    },
+    {
+      "label": "KVKK Aydınlatma Metni",
+      "href": "/kvkk.html"
+    },
+    {
+      "label": "Gizlilik Politikası",
+      "href": "/gizlilik-politikasi.html"
+    },
+    {
+      "label": "Site Haritası",
+      "href": "/site-map.html"
+    }
   ],
   "currency": "₺",
   "basketInstruction": "Ürünlerinizi sepete ekledikten sonra, 'Siparişini WhatsApp'tan Gönder' butonuna tıklayarak sipariş ve kargo bilgilerinizi bize hızlıca iletebilir, alışverişinizi kolayca tamamlayabilirsiniz.",
